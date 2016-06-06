@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Final_report_1
+---
 
 
 ## 1. 문제 상황 도출, 정의한 문제에 따라 목적 및 요구사항 도출
